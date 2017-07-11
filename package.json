@@ -1,0 +1,14 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "an electron demo",
+  "main": "index.js",
+  "author": "rsmelo <rodrigosm87@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "dependencies": {
+    "electron": "^1.6.11"
+  }
+}
